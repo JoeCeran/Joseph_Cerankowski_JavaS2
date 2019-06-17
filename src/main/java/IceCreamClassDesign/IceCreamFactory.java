@@ -1,4 +1,4 @@
-package IceCreamDesign;
+package IceCreamClassDesign;
 
 public class IceCreamFactory {
 

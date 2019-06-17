@@ -338,19 +338,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="App (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="IceCreamDesign.App" />
-      <module name="Joseph_Cerankowski_JavaS2" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="IceCreamDesign.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="App (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="RPGInheritance.App" />
       <module name="Joseph_Cerankowski_JavaS2" />
@@ -370,6 +357,19 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="CalculatorObject.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="IceCreamClassDesign.App" />
+      <module name="Joseph_Cerankowski_JavaS2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="IceCreamClassDesign.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
