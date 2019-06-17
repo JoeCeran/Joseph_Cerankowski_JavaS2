@@ -10,7 +10,7 @@ public class App {
 
         //Printout stats
         System.out.println("My name is " + farmer.getName() + ". I am a farmer. My stats are as listed: " +
-                "\nStrength:" + farmer.getStrength() +
+                "\nStrength :" + farmer.getStrength() +
                 "\nHealth: " + farmer.getHealth() +
                 "\nStamina: " + farmer.getStamina() +
                 "\nSpeed: " + farmer.getSpeed() +
@@ -24,7 +24,7 @@ public class App {
 
         //Printout stats
         System.out.println("\nMy name is " + warrior.getName() + ". I am a warrior. My stats are as listed: " +
-                "\nStrength:" + warrior.getStrength() +
+                "\nStrength :" + warrior.getStrength() +
                 "\nHealth: " + warrior.getHealth() +
                 "\nStamina: " + warrior.getStamina() +
                 "\nSpeed: " + warrior.getSpeed() +
@@ -40,12 +40,12 @@ public class App {
 
         //Printout stats
         System.out.println("\nMy name is " + constable.getName() + ". I am a constable. My stats are as listed: " +
-                "\nStrength:" + constable.getStrength() +
+                "\nStrength :" + constable.getStrength() +
                 "\nHealth: " + constable.getHealth() +
                 "\nStamina: " + constable.getStamina() +
                 "\nSpeed: " + constable.getSpeed() +
                 "\nAttack Power: " + constable.getAttackPower() +
-                "\nShield Strength Power: " + constable.getJurisdiction());
+                "\nJurisdiction: " + constable.getJurisdiction());
 
         constable.increaseStamina();
         System.out.println("My Stamina is now " + constable.getStamina());
